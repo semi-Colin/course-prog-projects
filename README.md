@@ -1,2 +1,2 @@
-# course-prog-projects
-Unmanaged collection of some programming assignments and projects from various course
+# course-projects
+Unmanaged collection of some assignments, projects, and other relevant work from various courses.
